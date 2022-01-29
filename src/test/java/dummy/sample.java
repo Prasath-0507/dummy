@@ -7,6 +7,7 @@ public class sample {
 		System.out.println("Masster data");
 		
 		System.out.println("Perf data");
+		System.out.println("Dev data");
 		
 	}
 	
